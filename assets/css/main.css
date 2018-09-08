@@ -262,10 +262,7 @@ nav li:nth-child(even) a:hover {
 	background: #c53c52;
 }
 
-nav li.active a,
-body.fp-viewing-fifthSection-1 #menu li:last-child a {
-  background: #453659;
-}
+
   
 
 
@@ -354,4 +351,7 @@ h3 {
 	}
 }
 
+#main {
+	background: linear-gradient(45deg, #e88f50d1 50%, #ffc107a8 100%) !important;
+}
 
